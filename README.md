@@ -10,5 +10,7 @@ The accuracies obtained by the above algorithms are as follows:
 
 Datasets
 The breast cancer Wisconsin (Diagnostic) dataset has been used to predict and diagnosis Malignant(M) from Benign(B) tumours. The above data has been taken from Kaggle and University of California Irvine (UCI) machine learning repository.
+
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)
