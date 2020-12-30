@@ -2,7 +2,7 @@ Machine learning techniques are widely used in the prediction and diagnosis of d
 
 The accuracies obtained by the above algorithms are as follows:
 1.	Logistic Regression — 98.24%
-2.	Decision Tree Algorithm — 90.35% 
+2.	Decision Tree Algorithm — 97.36% 
 3.	Random Forest Classification — 97.36%
 4.	Support Vector Machines — 97.36%
 5.	K - Nearest Neighbor — 96.49%
